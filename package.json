@@ -1,8 +1,13 @@
 {
-    "name": "main",
+    "name": "employee-tracker",
     "version": "1.0.0",
     "description": "Using pg",
     "main": "server.js",
+    "directories": {
+        "assets": "assets",
+        "db": "schema.sql",
+        "lib": "cli.js"
+    },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node server.js"
@@ -11,6 +16,7 @@
     "license": "ISC",
     "dependencies": {
       "inquirer": "^8.2.4",
+      "express": "^4.17.1",
       "jshint": "^2.12.0",
       "pg": "^8.11.3"
     }

@@ -26,18 +26,18 @@ const pool = new Pool(
 
 pool.connect();
 
-app.get('/api/movies', (req, res) => {
-    pool.query('SELECT id, nombre AS title FROM movies', (err, { rows }) => {
-        if(err) {
-            throw err;
-            return;
-        } 
-        res.json({
-            message: 'success!!',
-            data: rows
-        });
-    });
-});
+// app.get('/api/movies', (req, res) => {
+//     pool.query('SELECT id, nombre AS title FROM movies', (err, { rows }) => {
+//         if(err) {
+//             throw err;
+//             return;
+//         } 
+//         res.json({
+//             message: 'success!!',
+//             data: rows
+//         });
+//     });
+// });
 
 
 app.use((req, res) => {
@@ -49,3 +49,5 @@ app.listen(PORT, () => {
 });
 
 cli.run();
+
+module.exports = { pool };

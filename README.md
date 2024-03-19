@@ -26,12 +26,12 @@ The following walkthrough video demonstrates the appearance and functionality of
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-    - [Acknowledgements](#acknowledgements)
+    - [📚Acknowledgements](#acknowledgements)
   - [License](#license)
   - [Features](#features)
   - [Contributing](#contributing)
   - [Tests](#tests)
-  - [Questions](#questions)
+  - [❔Questions](#questions)
 
 ## Installation
 
@@ -66,7 +66,7 @@ Some material and concepts used in this challenge were learned from the [Univers
 
 [pgAdmin4](https://www.pgadmin.org/) is an open-source tool for PostgreSQL with a built-in ERD tool.
 
-### Acknowledgements
+### 📚Acknowledgements
 
 - **Node.js:** Environment for running JavaScript on the server-side.
 - **pg-pool:** Provides pooling services for your PostgreSQL database connections.
@@ -111,7 +111,7 @@ Any contributions you make are **greatly appreciated**.
 
 n/a
 
-## Questions
+## ❔Questions
 If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me through my GitHub profile or via email.
 
 GitHub Profile 💻: [NathaliaReyes](https://github.com/NathaliaReyes)

@@ -8,7 +8,7 @@ Employee-Tracker is a robust command-line application designed to streamline the
 
 At the heart of Employee-Tracker is Inquirer, a comprehensive collection of common interactive command-line user interfaces. Inquirer is used to generate a series of prompts, allowing users to easily navigate through the application and perform a variety of tasks such as adding, viewing, and updating employee records.
 
-The application is backed by PostgreSQL, a powerful, open-source object-relational database system. PostgreSQL provides advanced features such as MVCC (multi-version concurrency control), point-in-time recovery, tablespaces, and more. This ensures that Employee-Tracker can handle complex queries and large databases with ease.
+The application is backed by PostgreSQL, a powerful, open-source object-relational database system. 
 
 ## Database-Appearance
 
@@ -16,7 +16,7 @@ Entity Relationship Diagram:
 📍![ERD](/assets/tracker_db_ERD.pgerd.png)
 
 The following walkthrough video demonstrates the appearance and functionality of the command-line application:
-![APPEARANCE-APPLICATION](https://drive.google.com/file/d/10Q_1zJsEHmWYEO4CZdIW1xfc8Usbbe_J/view)
+[APPEARANCE-APPLICATION](https://drive.google.com/file/d/10Q_1zJsEHmWYEO4CZdIW1xfc8Usbbe_J/view)
 
 ## Table of Contents
 - [💼 employee-tracker](#-employee-tracker)

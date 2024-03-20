@@ -16,7 +16,7 @@ Entity Relationship Diagram:
 📍![ERD](/assets/tracker_db_ERD.pgerd.png)
 
 The following walkthrough video demonstrates the appearance and functionality of the command-line application:
-![APPEARANCE-APPLICATION]()
+![APPEARANCE-APPLICATION](https://drive.google.com/file/d/10Q_1zJsEHmWYEO4CZdIW1xfc8Usbbe_J/view)
 
 ## Table of Contents
 - [💼 employee-tracker](#-employee-tracker)

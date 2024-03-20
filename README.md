@@ -81,11 +81,11 @@ Copyright (c) Silvia Reyes. All rights reserved.
 
 ## Features
 
-+ **Employee Management:** Users can add and view employees. This allows for full control over the employee database.
++ **Employee Management:** Users can add, view, delete and update employees. This allows for full control over the employee database.
 
-+ **Role Management:** Users can add, view and update roles. This allows for easy management of employee roles and responsibilities.
++ **Role Management:** Users can add, view, delete and update roles. This allows for easy management of employee roles and responsibilities.
 
-+ **Department Management:** Users can add and view departments. This allows for efficient organization of different sectors within the company.
++ **Department Management:** Users can efficiently organize different sectors within the company by adding, viewing, updating, and deleting departments. Additionally, they can view the budget by department for employees, providing better financial control and decision-making.
 
 + **Manager Assignment:** Users can assign managers to employees, providing a clear hierarchy and chain of command.
 
